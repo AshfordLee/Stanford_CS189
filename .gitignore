@@ -5,3 +5,8 @@ data/
 !requirements.txt
 .idea
 *.mat
+*.html
+*.png
+.repo
+*.npy
+*.zip
